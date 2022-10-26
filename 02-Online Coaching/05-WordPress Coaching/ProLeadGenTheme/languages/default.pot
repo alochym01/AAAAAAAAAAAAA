@@ -1,0 +1,737 @@
+# Copyright (C) 2012 Black Rider Theme Pro
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Black Rider Theme Theme Pro 1.0\n"
+"Report-Msgid-Bugs-To: admin@inkthemes.com"
+"POT-Creation-Date: 2012-01-11 12:47:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Inkthemes\n"
+
+
+#: define_template.php:2
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: define_template.php:3 
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: define_template.php:4 
+msgid "Most Used Categories"
+msgstr ""
+
+#: define_template.php:5 
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: define_template.php:6 
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: define_template.php:7 
+msgid "Nothing Found here"
+msgstr ""
+
+#: define_template.php:8 
+msgid "Sorry, but nothing matched your search criteria. Please try again with some diffrent keyword"
+msgstr ""
+
+#: define_template.php:9 
+msgid "Categories"
+msgstr ""
+
+#: define_template.php:10 
+msgid "Archives"
+msgstr ""
+
+#: define_template.php:11 
+msgid "Blog Archives"
+msgstr ""
+
+#: define_template.php:12 
+msgid "Category Archives: %s"
+msgstr ""
+#: define_template.php:13 
+msgid "Page %s"
+msgstr ""
+
+#: define_template.php:14 
+msgid "Search Results for: %s"
+msgstr ""
+
+#: define_template.php:15 
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: define_template.php:16 
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: define_template.php:17 
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: define_template.php:18 
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: define_template.php:19 
+msgid "Author Archives: %s"
+msgstr ""
+
+#: define_template.php:20 
+msgid "About: %s"
+msgstr ""
+
+#: define_template.php:21 
+msgid "Home"
+msgstr ""
+
+#: define_template.php:25 
+msgid "Primary Widget Area"
+msgstr ""
+
+#: define_template.php:26 
+msgid "The primary widget area"
+msgstr ""
+
+#: define_template.php:27 
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: define_template.php:28 
+msgid "The secondary widget area"
+msgstr ""
+
+#: define_template.php:29 
+msgid "Home Page Right Feature Widget Area"
+msgstr ""
+
+#: define_template.php:30 
+msgid "The Home Page Right Feature widget area"
+msgstr ""
+
+#: define_template.php:31 
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: define_template.php:32 
+msgid "The first footer widget area"
+msgstr ""
+
+#: define_template.php:33
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: define_template.php:34 
+msgid "The second footer widget area"
+msgstr ""
+
+#: define_template.php:35
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: define_template.php:36
+msgid "The third footer widget area"
+msgstr ""
+
+#: define_template.php:37
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: define_template.php:38
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: define_template.php:39
+msgid "&larr; Older Posts"
+msgstr ""
+
+#: define_template.php:40
+msgid "Newer Posts &rarr;"
+msgstr ""
+
+#: define_template.php:41
+msgid "&larr; Previous Post"
+msgstr ""
+
+#: define_template.php:42
+msgid "Next Post &rarr;"
+msgstr ""
+
+#: define_template.php:43
+msgid "Read More"
+msgstr ""
+
+#: define_template.php:44
+msgid "Send Your Message"
+msgstr ""
+
+#: define_template.php:45
+msgid "Name"
+msgstr ""
+
+#: define_template.php:46
+msgid "Email"
+msgstr ""
+
+#: define_template.php:47
+msgid "Message"
+msgstr ""
+
+#: define_template.php:48
+msgid "Post Tagged with"
+msgstr ""
+
+#: define_template.php:49
+msgid "General Settings"
+msgstr ""
+
+#: define_template.php:50
+msgid "Custom Logo"
+msgstr ""
+
+#: define_template.php:51
+msgid "Upload a logo for your Website. The recommended size for the logo is 200px width x 50px height."
+msgstr ""
+
+#: define_template.php:52
+msgid "Custom Favicon"
+msgstr ""
+
+#: define_template.php:53
+msgid "Here you can upload a Favicon for your Website. Specified size is 16px x 16px."
+msgstr ""
+
+#: define_template.php:54
+msgid "Background Image"
+msgstr ""
+
+#: define_template.php:55
+msgid "Choose a suitable background image that will complement your website."
+msgstr ""
+
+#: define_template.php:56
+msgid "Mobile Navigation Menu"
+msgstr ""
+
+#: define_template.php:57
+msgid "Enter your mobile navigation menu text"
+msgstr ""
+
+#: define_template.php:58
+msgid "Top Right Contact Details"
+msgstr ""
+
+#: define_template.php:59
+msgid "Mention the contact details here which will be displayed on the top right corner of Website."
+msgstr ""
+
+#: define_template.php:60
+msgid "Contact Number For Tap To Call Feature"
+msgstr ""
+
+#: define_template.php:61
+msgid "Mention your contact number here through which users can interact to you directly. This feature is called tap to call and this will work when the user will access your website through mobile phones or iPhone."
+msgstr ""
+
+#: define_template.php:62
+msgid "Tracking Code"
+msgstr ""
+
+#: define_template.php:63
+msgid "Paste your Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: define_template.php:64
+msgid "Front Page On/Off"
+msgstr ""
+
+#: define_template.php:65
+msgid "If the front page option is active then home page will appear otherwise blog page will display."
+msgstr ""
+
+#: define_template.php:66
+msgid "Leads Capture Settings"
+msgstr ""
+
+#: define_template.php:67
+msgid "Lead Capture Form Heading"
+msgstr ""
+
+#: define_template.php:68
+msgid "Mention the heading for the lead capture form that will display on the sidebar."
+msgstr ""
+
+#: define_template.php:69
+msgid "E-mail Address"
+msgstr ""
+
+#: define_template.php:70
+msgid "E-mail Address- Mention multiple e-mail ids here to receive mails from lead capture form. Add comma and space to separate two email ids. For eg:- example@gmail.com, example1@gmail.com"
+msgstr ""
+
+#: define_template.php:71
+msgid "Lead Capture Form Sumbit Button Text"
+msgstr ""
+
+#: define_template.php:72
+msgid "Mention the text for the lead capture form submit button."
+msgstr ""
+
+#: define_template.php:73
+msgid "Captcha On/Off"
+msgstr ""
+
+#: define_template.php:74
+msgid "By default captcha is activated. Turn it off to deactivate this."
+msgstr ""
+
+#: define_template.php:75
+msgid "Slider Settings"
+msgstr ""
+
+#: define_template.php:76
+msgid "Slider Speed"
+msgstr ""
+
+#: define_template.php:77
+msgid "Set the speed of the slider in milliseconds. For e.g. if you want to set the speed of the slider for 8 seconds then enter 8000 in the field or if you want to set the slider speed for 2.5 seconds then enter 2500 in the field."
+msgstr ""
+
+#: define_template.php:78
+msgid "First Slider Image"
+msgstr ""
+
+#: define_template.php:79
+msgid "The optimal size of the first image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:80
+msgid "Link for First slider"
+msgstr ""
+
+#: define_template.php:81
+msgid "Mention the URL for first image."
+msgstr ""
+
+#: define_template.php:82
+msgid "Second Slider Image"
+msgstr ""
+
+#: define_template.php:83
+msgid "The optimal size of the second image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:84
+msgid "Link for Second slider"
+msgstr ""
+
+#: define_template.php:85
+msgid "Mention the URL for Second image."
+msgstr ""
+
+#: define_template.php:86
+msgid "Third Slider Image"
+msgstr ""
+
+#: define_template.php:87
+msgid "The optimal size of the third image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:88
+msgid "Link for Third slider"
+msgstr ""
+
+#: define_template.php:89
+msgid "Mention the URL for Third image."
+msgstr ""
+
+#: define_template.php:90
+msgid "Fourth Slider Image."
+msgstr ""
+
+#: define_template.php:91
+msgid "The optimal size of the fourth image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:92
+msgid "Link for Fourth slider"
+msgstr ""
+
+#: define_template.php:93
+msgid "Mention the URL for Fourth image."
+msgstr ""
+
+#: define_template.php:94
+msgid "Fifth Slider Image"
+msgstr ""
+
+#: define_template.php:95
+msgid "The optimal size of the fifth image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:96
+msgid "Link for Fifth slider"
+msgstr ""
+
+#: define_template.php:97
+msgid "Mention the URL for Fifth image."
+msgstr ""
+
+#: define_template.php:98
+msgid "Sixth Slider Image"
+msgstr ""
+
+#: define_template.php:99
+msgid "The optimal size of the sixth image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:100
+msgid "Link for Sixth slider"
+msgstr ""
+
+#: define_template.php:101
+msgid "Mention the URL for Sixth image."
+msgstr ""
+
+#: define_template.php:102
+msgid "Seventh Slider Image"
+msgstr ""
+
+#: define_template.php:103
+msgid "The optimal size of the seventh image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:104
+msgid "Link for Seventh slider"
+msgstr ""
+
+#: define_template.php:105
+msgid "Mention the URL for Seventh image."
+msgstr ""
+
+#: define_template.php:106
+msgid "Eighth Slider Image"
+msgstr ""
+
+#: define_template.php:107
+msgid "The optimal size of the eighth image is 1920 px wide x 654 px height, but it can be varied as per your requirement."
+msgstr ""
+
+#: define_template.php:108
+msgid "Link for Eighth slider"
+msgstr ""
+
+#: define_template.php:109
+msgid "Mention the URL for Eighth image."
+msgstr ""
+
+#: define_template.php:110
+msgid "Homepage Feature Area"
+msgstr ""
+
+#: define_template.php:111
+msgid "Home Page Main Heading"
+msgstr ""
+
+#: define_template.php:112
+msgid "Mention the punch line for your business here."
+msgstr ""
+
+#: define_template.php:113
+msgid "Home Page Sub Heading"
+msgstr ""
+
+#: define_template.php:114
+msgid "Mention the tagline for your business here that will complement the punch line."
+msgstr ""
+
+#: define_template.php:115
+msgid "Home Page Feature Section Starts From Here."
+msgstr ""
+
+#: define_template.php:116
+msgid "First Feature Image"
+msgstr ""
+
+#: define_template.php:117
+msgid "Choose image for your first Feature area. Optimal size 170px x 170px."
+msgstr ""
+
+#: define_template.php:118
+msgid "First Feature Heading"
+msgstr ""
+
+#: define_template.php:119
+msgid "Enter your text for first col heading."
+msgstr ""
+
+#: define_template.php:120
+msgid "First Feature Description"
+msgstr ""
+
+#: define_template.php:121
+msgid "Enter your text for first col description."
+msgstr ""
+
+#: define_template.php:122
+msgid "First feature Link"
+msgstr ""
+
+#: define_template.php:123
+msgid "Enter your text for First feature Link."
+msgstr ""
+
+#: define_template.php:124
+msgid "Second Feature Starts From Here.
+msgstr ""
+
+#: define_template.php:125
+msgid "Second Feature Image"
+msgstr ""
+
+#: define_template.php:126
+msgid "Choose image for your second Feature area. Optimal size 170px x 170px."
+msgstr ""
+
+#: define_template.php:127
+msgid "Second Feature Heading"
+msgstr ""
+
+#: define_template.php:128
+msgid "Enter your heading for second Feature area."
+msgstr ""
+
+#: define_template.php:129
+msgid "Second Col Description"
+msgstr ""
+
+#: define_template.php:130
+msgid "Enter your text for second col description."
+msgstr ""
+
+#: define_template.php:131
+msgid "Second feature Link"
+msgstr ""
+
+#: define_template.php:132
+msgid "Enter your text for Second feature Link."
+msgstr ""
+
+#: define_template.php:133
+msgid "Third Feature Starts From Here."
+msgstr ""
+
+#: define_template.php:134
+msgid "Third Feature Image"
+msgstr ""
+
+#: define_template.php:135
+msgid "Choose image for your thrid Feature. Optimal size 170px x 170px"
+msgstr ""
+
+#: define_template.php:136
+msgid "Third Feature Heading"
+msgstr ""
+
+#: define_template.php:137
+msgid "Enter your heading for third Feature area."
+msgstr ""
+
+#: define_template.php:138
+msgid "Third Feature Description"
+msgstr ""
+
+#: define_template.php:139
+msgid "Enter your text for Third Feature description."
+msgstr ""
+
+#: define_template.php:140
+msgid "Third feature Link"
+msgstr ""
+
+#: define_template.php:141
+msgid "Enter your text for third feature Link."
+msgstr ""
+
+#: define_template.php:142
+msgid "Fourth Feature Starts From Here."
+msgstr ""
+
+#: define_template.php:143
+msgid "Fourth Feature Image"
+msgstr ""
+
+#: define_template.php:144
+msgid "Choose image for your Fourth Feature. Optimal size 170px x 170px."
+msgstr ""
+
+#: define_template.php:145
+msgid "Fourth Feature Heading"
+msgstr ""
+
+#: define_template.php:146
+msgid "Enter your heading for Fourth Feature area."
+msgstr ""
+
+#: define_template.php:147
+msgid "Fourth Feature Description"
+msgstr ""
+
+#: define_template.php:148
+msgid "Enter your text for Fourth Feature description."
+msgstr ""
+
+#: define_template.php:149
+msgid "Fourth feature Link"
+msgstr ""
+
+#: define_template.php:150
+msgid "Enter your text for Fourth feature Link."
+msgstr ""
+
+#: define_template.php:151
+msgid "Home Page Testimonial Section Starts From Here"
+msgstr ""
+
+#: define_template.php:152
+msgid "Home Page Blog Heading"
+msgstr ""
+
+#: define_template.php:153
+msgid "Enter your text for home Page blog heading section"
+msgstr ""
+
+#: define_template.php:154
+msgid "Number Of Post"
+msgstr ""
+
+#: define_template.php:155
+msgid "Here you can mention the number of blog post that will display on home page."
+msgstr ""
+
+#: define_template.php:156
+msgid "Styling Options"
+msgstr ""
+
+#: define_template.php:157
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: define_template.php:158
+msgid "Select the color of the theme from different available colors."
+msgstr ""
+
+#: define_template.php:159
+msgid "Theme Language"
+msgstr ""
+
+#: define_template.php:160
+msgid "By default the theme content displays from left to right which you can change to right to left i.e. switching it to RTL."
+msgstr ""
+
+#: define_template.php:161
+msgid "Custom CSS"
+msgstr ""
+
+#: define_template.php:162
+msgid "Quickly add your custom CSS code to your theme by writing the code in this block."
+msgstr ""
+
+#: define_template.php:163
+msgid "Social Icons"
+msgstr ""
+
+#: define_template.php:164
+msgid "Twitter URL"
+msgstr ""
+
+#: define_template.php:165
+msgid "Mention the URL of your Twitter here."
+msgstr ""
+
+#: define_template.php:166
+msgid "Facebook URL"
+msgstr ""
+
+#: define_template.php:167
+msgid "Mention the URL of your Facebook here."
+msgstr ""
+
+#: define_template.php:168
+msgid "Google+ URL"
+msgstr ""
+
+#: define_template.php:169
+msgid "Mention the URL of your Google+ here."
+msgstr ""
+
+#: define_template.php:170
+msgid "LinkedIn URL"
+msgstr ""
+
+#: define_template.php:171
+msgid "Mention the URL of your LinkedIn here."
+msgstr ""
+
+#: define_template.php:172
+msgid "YouTube URL"
+msgstr ""
+
+#: define_template.php:173
+msgid "Mention the URL of your YouTube here."
+msgstr ""
+
+#: define_template.php:174
+msgid "Pinterest URL"
+msgstr ""
+
+#: define_template.php:175
+msgid "Mention the URL of your Pinterest here."
+msgstr ""
+
+#: define_template.php:176
+msgid "Footer Settings"
+msgstr ""
+
+#: define_template.php:177
+msgid "Footer Text"
+msgstr ""
+
+#: define_template.php:178
+msgid "Write the text here that will be displayed on the footer i.e. at the bottom of the Website."
+msgstr ""
+
+#: define_template.php:179
+msgid "SEO Options"
+msgstr ""
+
+#: define_template.php:180
+msgid "Meta Keywords (comma separated)"
+msgstr ""
+
+#: define_template.php:181
+msgid "Meta keywords provide search engines with additional information about topics that appear on your site. This only applies to your home page. Keyword Limit Maximum 8"
+msgstr ""
+
+#: define_template.php:182
+msgid "Meta Description"
+msgstr ""
+
+#: define_template.php:183
+msgid "You should use meta descriptions to provide search engines with additional information about topics that appear on your site. This only applies to your home page.Optimal Length for Search Engines, Roughly 155 Characters"
+msgstr ""
+
+#: define_template.php:184
+msgid "Meta Author Name"
+msgstr ""
+
+#: define_template.php:185
+msgid "You should write the full name of the author here. This only applies to your home page."
+msgstr ""

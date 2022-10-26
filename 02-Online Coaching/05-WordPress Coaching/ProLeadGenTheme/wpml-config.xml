@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<!-- was: no XML declaration present -->
+<wpml-config>
+    <admin-texts>  
+        <key name="inkthemes_options">
+            <key name="inkthemes_topright"/>
+            <key name="inkthemes_contact_number"/>
+            <key name="capt_en">
+                <key name='on'/>
+                <key name='off'/>
+            </key>
+            <key name="inkthemes_nav"/>
+            <key name="inkthemes_topright"/>
+            <key name="inkthemes_contact_number"/>
+            <key name="inkthemes_leadhead"/>
+            <key name="inkthemes_leadsubmit_text"/>
+            <key name="inkthemes_page_main_heading"/>
+            <key name="inkthemes_page_sub_heading"/>
+            <key name="inkthemes_firsthead"/>
+            <key name="inkthemes_blog_heading"/>
+            <key name="inkthemes_footertext"/>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+

@@ -1,0 +1,193 @@
+.header_container{
+    background:#d9ca39;
+}
+.call-us p{
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #127FEB),color-stop(0.5, #0A68CC));
+    background-image: -o-linear-gradient(bottom, #127FEB 0%, #0A68CC 50%);
+    background-image: -moz-linear-gradient(bottom, #127FEB 0%, #0A68CC 50%);
+    background-image: -webkit-linear-gradient(bottom, #127FEB 0%, #0A68CC 50%);
+    background-image: -ms-linear-gradient(bottom, #127FEB 0%, #0A68CC 50%);
+    background-image: linear-gradient(to bottom, #127FEB 0%, #0A68CC 50%);
+}
+.call-us p:hover {        
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #127FEB),color-stop(0.5, #0A68CC));
+    background-image: -o-linear-gradient(top, #127FEB 0%, #0A68CC 50%);
+    background-image: -moz-linear-gradient(top, #127FEB 0%, #0A68CC 50%);
+    background-image: -webkit-linear-gradient(top, #127FEB 0%, #0A68CC 50%);
+    background-image: -ms-linear-gradient(top, #127FEB 0%, #0A68CC 50%);
+    background-image: linear-gradient(to top, #127FEB 0%, #0A68CC 50%);
+}
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover {
+    color:#d9ca39;
+}
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover {
+    color:#d9ca39;
+}
+#menu .ddsmoothmenu li li a:hover {
+    color:#d9ca39;
+}
+.flexslider:hover .flex-direction-nav .flex-prev:hover{
+    background:#d9ca39 url(images/prev.png) center no-repeat;
+}
+.flexslider:hover .flex-direction-nav .flex-next:hover{
+    background:#d9ca39 url(images/next.png) center no-repeat;
+}
+.signinformbox_wrapper, .caption{
+    background:#d9ca39;
+}
+.signupform input[type="text"], .signupform input[type="email"], .signupform select {
+    border:6px solid #e7dc73;
+}
+.signupform input[type="text"]:focus, .signupform input[type="email"]:focus, .signupform select:focus{
+    border:6px solid #f9f2a9;
+}
+.signupform textarea {
+    border:6px solid #e7dc73;
+}
+.signupform textarea:focus{
+    border:6px solid #f9f2a9;
+}
+.signupform input[type="submit"] {
+    background-image: -webkit-gradient(linear,right bottom,left bottom,color-stop(0.46, #1179E7),color-stop(0.82, #117AE9));
+    background-image: -o-linear-gradient(left, #1179E7 46%, #117AE9 82%);
+    background-image: -moz-linear-gradient(left, #1179E7 46%, #117AE9 82%);
+    background-image: -webkit-linear-gradient(left, #1179E7 46%, #117AE9 82%);
+    background-image: -ms-linear-gradient(left, #1179E7 46%, #117AE9 82%);
+    background-image: linear-gradient(to left, #1179E7 46%, #117AE9 82%);
+    border: 1px #288586 solid;
+    box-shadow: 0px 0px 1px 2px #968B27;
+}
+.signupform input[type="submit"]:hover{
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.24, #0B74E5),color-stop(0.77, #3398FC));
+    background-image: -o-linear-gradient(top, #0B74E5 24%, #3398FC 77%);
+    background-image: -moz-linear-gradient(top, #0B74E5 24%, #3398FC 77%);
+    background-image: -webkit-linear-gradient(top, #0B74E5 24%, #3398FC 77%);
+    background-image: -ms-linear-gradient(top, #0B74E5 24%, #3398FC 77%);
+    background-image: linear-gradient(to top, #0B74E5 24%, #3398FC 77%);
+}
+.page_info .page-info-heading{
+    background:url(images/page-leaf-left-yellow.png) left center no-repeat, url(images/page-leaf-right-yellow.png) right center no-repeat;
+}
+.feature_inner_box .circle:hover {
+    background:#d9ca39;
+}
+.feature_inner_box a {
+    color: #BDAE1E;
+    font-size:16px;
+}
+.feature_inner_box a:hover {
+    color:#1a82ed;
+}
+.footer .footer_widget ul li:before {
+    color: #1A82ED;
+}
+.searchform input[type="text"] {
+    border:1px solid #d9ca39;
+}
+.searchform input[type="submit"] {
+    background-color: #C9BB2F;
+}
+.arrow_box:before {
+    border-right-color: #C9BB2F;
+}
+.content-bar a {
+    color: #d9ca39;
+}
+#nav-single a:hover{
+    color:#d9ca39;
+}
+a.gall-content:hover{
+    color: #d9ca39;
+}
+#author:focus, #url:focus, #email:focus{
+    border-color:#d9ca39;
+}
+#comment-form textarea:focus {
+    border-color:#d9ca39;
+}
+.post .post_meta a:hover {
+    color: #d9ca39;
+}
+.searchform input[type="text"]:focus {
+    box-shadow: 0 0px 5px #d9ca39;
+    -moz-box-shadow: 0 0px 5px #d9ca39;
+    -webkit-box-shadow: 0 0px 5px #d9ca39;
+}
+.post .post-image span{
+    background:url(images/post-link-yellow.png) no-repeat;
+}
+.post .post_title a:hover{
+    color:#1a82ed;
+}
+.menu-container {
+    -webkit-box-shadow: 0px 3px 2px 0px #BFAE03;
+    -moz-box-shadow: 0px 3px 2px 0px #BFAE03;
+    box-shadow: 0px 3px 2px 0px #BFAE03;
+}
+.page_heading_container{
+    background:#d9ca39;
+}
+.page_heading_container .page_heading_content .bred-tip{
+    background:url(images/bred-tip-yellow.png) no-repeat;
+}
+.sidebar .multiline{
+    background: linear-gradient( to right, #0B6ACD 0%, #0B6ACD 24%, #EDEBF0 24%, #EDEBF0 100% );
+}
+.sidebar ul li a:hover {
+    color: #d9ca39;
+}
+#contactForm input[type="text"]:focus, #contactForm input[type="email"]:focus,  #contactForm textarea:focus{
+    border:1px solid #1a82ed;
+}
+#contactForm input[type="submit"] {
+    background: url('images/submit-yellow.png') no-repeat 0 0;
+    text-shadow:0 1px 0 #1a82ed;
+}
+#contactForm input[type="submit"]:hover{
+    background: url('images/submit-yellow.png') no-repeat 0 -41px;
+}
+ol.commentlist li .comment-author .avatar {
+    border:3px solid #1a82ed;
+    background:url(images/avatar-bg-yellow.png) no-repeat;
+}
+ol.commentlist li .comment-body {
+    border: 1px solid #1a82ed;
+}
+ol.commentlist li .comment-body:before{
+    border-right-color: #1a82ed;
+}
+ol.commentlist li .reply a {
+    background:url(images/c-reply-img-yellow.png) center right no-repeat;
+}
+#respond input#submit {
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.42, #0B78D8),color-stop(0.99, #0F95E3));
+    background-image: -o-linear-gradient(top, #0B78D8 42%, #0F95E3 99%);
+    background-image: -moz-linear-gradient(top, #0B78D8 42%, #0F95E3 99%);
+    background-image: -webkit-linear-gradient(top, #0B78D8 42%, #0F95E3 99%);
+    background-image: -ms-linear-gradient(top, #0B78D8 42%, #0F95E3 99%);
+    background-image: linear-gradient(to top, #0B78D8 42%, #0F95E3 99%);
+}
+#respond input#submit:hover{
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0.42, #0F95E3),color-stop(0.99, #0B78D8));
+    background-image: -o-linear-gradient(top, #0F95E3 42%, #0B78D8 99%);
+    background-image: -moz-linear-gradient(top, #0F95E3 42%, #0B78D8 99%);
+    background-image: -webkit-linear-gradient(top, #0F95E3 42%, #0B78D8 99%);
+    background-image: -ms-linear-gradient(top, #0F95E3 42%, #0B78D8 99%);
+    background-image: linear-gradient(to top, #0F95E3 42%, #0B78D8 99%);
+}
+.call-us a.btn {
+    color: white;
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #1A70CD),color-stop(0.49, #0D58C1));
+    background-image: -o-linear-gradient(bottom, #1A70CD 0%, #0D58C1 49%);
+    background-image: -moz-linear-gradient(bottom, #1A70CD 0%, #0D58C1 49%);
+    background-image: -webkit-linear-gradient(bottom, #1A70CD 0%, #0D58C1 49%);
+    background-image: -ms-linear-gradient(bottom, #1A70CD 0%, #0D58C1 49%);
+    background-image: linear-gradient(to bottom, #1A70CD 0%, #0D58C1 49%);
+    border-radius: 6px;
+    border: 2px solid #0C56C0;
+    box-shadow: inset 0 2px 0 #328EDB,0px 3px 9px #4D8717,inset 0px 0px 0px 1px #084BB9;
+}
+div.verticleline {
+    border-left: 1px solid #084AB8;
+    border-right: 1px solid #257FD4;
+}

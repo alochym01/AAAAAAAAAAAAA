@@ -1,0 +1,800 @@
+/* 
+    Document   : Blackriders Language RTL
+    Created on : July 24, 2013, 1:00 pm
+    Author     : Inkthemes
+    Description: Language RTL
+       
+*/
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: right;
+}
+p {
+	text-align: right;
+}
+
+ol{
+direction:rtl;
+}
+
+ol li{
+list-style:decimal;
+}
+ul{
+direction:rtl;
+}
+ 
+ul li {
+margin-left:0;
+}
+
+/*header*/
+.container_24 .header div.grid_16.alpha{
+float:right;
+}
+.container_24 .header div.grid_8.omega{
+float:left;
+}
+.header .call-us {
+float:left;
+}
+.header .logo img {
+float:right;
+}
+
+/* Menu */
+.menu-wrapper {
+float:right;
+}
+div.grid_18{
+float:right;
+}
+#menu .ddsmoothmenu {
+float:right;
+}
+#menu .ddsmoothmenu li:first-child a {
+padding-left: 15px;
+background:none;
+}
+#menu .ddsmoothmenu li {
+float:right;
+text-align:right;
+}
+.page_info {
+text-align: center;
+}
+
+/*slider */
+.flexslider {
+display:inline-block;
+}
+/*Slider Signupform*/
+.caption {
+margin: 0;
+position: absolute;
+left: 15.65%;
+top: -6%;
+}
+
+.signupform input[type="text"], .signupform input[type="email"] {
+text-align: right;
+}
+.signupform textarea {
+text-align: right;
+}
+div.catchapanel{
+float:right;
+}
+span.captcha_img{
+float:right;
+}
+
+/*Feature Box */
+.feature_box h6{
+text-align:center;
+}
+.feature_inner_box p{
+text-align:center;
+}
+
+/* Bottom Feature */
+.bottom_feature div.grid_16.alpha{
+float:right;
+}
+.bottom_feature div.grid_8.omega{
+float:left;
+}
+.bottom_feature .sidebar.home {
+padding-left: 0;
+}
+
+/* Post */
+.post {
+position: relative;
+overflow:hidden;
+}
+.post .post_title {
+text-align: right;
+}
+
+.post .post_meta {
+list-style-type: none;
+margin-bottom: 21px;
+display:block;
+
+}
+.post .post_meta li {
+float:right !important;
+}
+.post .post-image {
+float:right;
+margin-right: 0;
+margin-left:20px;
+}
+.post .post_content{
+text-align: right;
+}
+.post .post_content p {
+text-align: right;
+float:right;
+}
+
+.post .post_content a.read-more{
+float:right;
+margin-top:-1px;
+}
+.post .post_content a.read-more:hover{
+margin-top:-1px;
+}
+
+/*Contact Form */
+#contactForm label {
+float: right;
+clear:both;
+}
+
+#contactForm input[type="text"], #contactForm input[type="email"] {
+margin-right: 16%;
+text-align:right;
+}
+#contactForm textarea {
+margin-right: 13%;
+width: 71.6%;
+text-align:right;
+}
+#contactForm input[type="submit"] {
+margin-right:150px;
+}
+
+#contactForm .captcha_code span.captcha_img{
+margin-left:0;
+}
+#contactForm .captcha_code {
+width:250px;
+float:right;
+margin-right:160px;
+}
+#contactForm .captcha_code input#vercode {
+margin-top: 0;
+}
+
+/*Gallery*/
+.page-content .fullwidth .gallery ul.thumbnail.col-1{
+width:75%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-1 li{
+margin-right:420px;
+margin-bottom:52px;
+}
+
+.page-content .fullwidth .gallery ul.thumbnail.col-2{
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-2 li{
+margin-right:152px;
+margin-bottom:52px;
+}
+
+.page-content .fullwidth .gallery ul.thumbnail.col-3 {
+width: 115%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-4 {
+width: 105%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-5{
+width: 106%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-5 li {
+width: 181px;
+height: auto;
+margin-right: 48px;
+margin-bottom: 52px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-6 {
+width: 106%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-6 li {
+width: 120px;
+height: auto;
+margin-right: 74px;
+margin-bottom: 40px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-7 {
+width: 102%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-7 li {
+width: 120px;
+height: auto;
+margin-right: 35px;
+margin-bottom:40px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-8 {
+width: 101%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-8 li {
+width: 120px;
+height: auto;
+margin-right: 18px;
+margin-bottom:40px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-9 {
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-9 li {
+width: 120px;
+height: auto;
+margin-right: 1px;
+margin-bottom:40px;
+}
+
+
+.content-bar .gallery ul.thumbnail.col-3 li {
+width: 145px;
+height: 90px;
+margin-left: 15px;
+}
+.content-bar .gallery ul.thumbnail.col-4 li {
+width: 130px;
+height: 106px;
+margin-right: 44px;
+margin-left: 15px;
+}
+.content-bar .gallery ul.thumbnail.col-5 li {
+width: 100px;
+height: 76px;
+margin-right: 20px;
+margin-left: 32px;
+}
+.content-bar .gallery .thumbnail.col-6 {
+width: 102%;
+}
+.content-bar .gallery ul.thumbnail.col-6 li {
+width: 85px;
+height: 105px;
+margin-right: 16px;
+margin-left:20px;
+}
+.content-bar .gallery .thumbnail.col-7 {
+width: 100%;
+}
+.content-bar .gallery ul.thumbnail.col-7 li {
+margin-right: 20px;
+margin-left: 12px;
+}
+.content-bar .gallery .thumbnail.col-8 {
+width: 104%;
+}
+.content-bar .gallery ul.thumbnail.col-8 li {
+width: 64px;
+height: 35px;
+margin-right: 10px;
+margin-bottom: 80px;
+margin-left:20px;
+}
+.content-bar .gallery .thumbnail.col-9 {
+width: 109%;
+}
+.content-bar .gallery ul.thumbnail.col-9 li {
+width: 60px;
+height: 32px;
+margin-right: 8px;
+margin-bottom: 80px;
+margin-left:15px;
+}
+
+/*Comment Form */
+ol.commentlist li .reply a {
+position: absolute;
+top: 0px;
+right: 5px;
+}
+#commentform input[type="text"] {
+text-align: right;
+margin-left: 330px;
+}
+textarea#comment {
+text-align:right;
+margin-left: 190px;
+}
+
+/*Footer */
+.footer p {
+text-align: right;
+}
+.footer .footer_widget ul li {
+background-position: right;
+margin-right:0;
+padding-right:14px;
+display:block;
+}
+.footer .footer_widget ul li:hover {
+margin-right: 14px;
+}
+.footer .footer_widget ul li.recentcomments {
+padding-right: 14px;
+}
+
+.footer .footer_widget .tagcloud{
+text-align:right
+}
+.footer .footer_widget .textwidget{
+text-align:right;
+}
+.searchform input[type="text"] {
+text-align: right;
+padding-right:5px;
+}
+.bottom_footer_content div.grid_8.alpha{
+float:right;
+overlow:hidden;
+
+}
+.bottom_footer_content div.grid_16.omega{
+float:left;
+overlow:hidden;
+}
+.bottom_footer_container .copyrightinfo p {
+text-align:left;
+}
+.bottom_footer_container ul.social_logos {
+float: right;
+}
+
+@media only screen and (min-width: 1140px) and (max-width: 1370px) {
+.caption {
+margin: 0;
+position: absolute;
+left: 10%;
+top: -6%;
+}
+.signinformbox_wrapper {
+height: 363px;
+overflow: auto;
+}
+	
+}
+@media only screen and (min-width: 960px) and (max-width: 1140px) {
+.feature_inner_box.fourth {
+margin-left: 0;
+}
+
+/*contact*/
+#contactForm .captcha_code {
+width: 250px;
+float: right;
+margin-right: 147px;
+}
+
+#commentform input[type="text"] {
+text-align: right;
+margin-left: 280px;
+}
+textarea#comment {
+text-align:right;
+margin-left: 162px;
+}
+
+.page-content .fullwidth .gallery ul.thumbnail.col-3 {
+width: 90%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-3 li{
+margin-right: 40px;
+margin-bottom:40px;
+}
+
+
+}
+@media only screen and (min-width: 767px) and (max-width: 960px) {
+/* Menu */
+.menu-wrapper {
+float:right;
+width:100%;
+}
+div.grid_18{
+float:right;
+}
+#menu .ddsmoothmenu {
+float:right;
+}
+#menu .ddsmoothmenu li:first-child a {
+padding-left: 15px;
+background:none;
+}
+#menu .ddsmoothmenu li {
+float:right;
+text-align:right;
+}
+#menu li {
+float: right !important;
+}
+
+/*Contact Page */
+#contactForm textarea {
+margin-right:11%;
+
+width:70.6%;
+}
+#contactForm input[type="submit"] {
+margin-right: 120px;
+}
+
+#contactForm .captcha_code {
+margin-right: 120px;
+}
+
+#commentform input[type="text"] {
+text-align: right;
+margin-left: 215px;
+}
+textarea#comment {
+text-align:right;
+margin-left: 125px;
+}
+
+.bottom_feature .sidebar.home {
+padding-left: 40px;
+}
+.blog_feature {
+padding-right: 0;
+margin-right:10px;
+width: 90%;
+margin-left: 50px;
+}
+.footer .footer_widget .searchform input[type="text"] {
+padding-left: 5px;
+}
+
+
+.page-content .fullwidth .gallery ul.thumbnail.col-3 {
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-3 li{
+margin-right: 10px;
+margin-bottom:50px;
+}
+
+.page-content .fullwidth .gallery ul.thumbnail.col-4 {
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-4 li{
+margin-right: 35px;
+margin-bottom:50px;
+}
+
+/* Default Gallery */
+.content-bar .gallery ul.thumbnail.col-4 li {
+width: 130px;
+height: 106px;
+margin-left: 10%;
+margin-right: 9%;
+}
+
+
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.header div.grid_16.alpha {
+float: right;
+float: none;
+}
+.header .logo img {
+float: none;
+}	
+
+/*Slider Signupform*/
+.caption {
+margin: 0;
+position: absolute;
+left: 25.65%;
+top:115%;
+}	
+
+.home-content{
+margin-top:500px;
+}
+
+.feature_inner_box.fourth {
+margin-left: 115px;
+}
+/*Contact Page */
+#contactForm textarea {
+margin-right:11%;
+width:68.6%;
+}
+#contactForm input[type="submit"] {
+margin-right: 120px;
+}
+#contactForm .captcha_code {
+margin-right: 115px;
+}
+
+
+/*Comment Form */
+#commentform input[type="text"] {
+text-align: right;
+margin-left: 15px;
+}
+textarea#comment {
+text-align:right;
+margin-left: 15px;
+}
+.sidebar {
+padding-right: 10px;
+}
+
+/*Gallery */
+.page-content .fullwidth .gallery ul.thumbnail.col-1{
+	width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail li.col-1{
+margin-right: 30px;
+margin-bottom:15px;
+}
+
+.page-content .fullwidth .gallery ul.thumbnail.col-3 {
+width: 96%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-3 li{
+margin-right: 5px;
+margin-bottom:50px;
+}
+
+.page-content .fullwidth .gallery .thumbnail.col-4 {
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-4 li{
+margin-right: 35px;
+margin-bottom:50px;
+}
+
+
+}
+
+@media only screen and (max-width: 480px) {
+.header div.grid_16.alpha {
+float: right;
+float: none;
+}
+.header .logo img {
+float: none;
+}
+
+.call-us a.btn {
+margin-left: 60px;
+}
+
+/*Slider Signupform*/
+.caption {
+margin: 0;
+position: absolute;
+left: 10.65%;
+top:80%;
+}	
+
+.home-content{
+margin-top:450px;
+}
+	
+.feature_inner_box.fourth {
+margin-left: 0px;
+}
+.post .post-image {
+margin-right: 0;
+}
+
+/* contact Form */
+#contactForm input[type="text"], #contactForm input[type="email"] {
+margin-right: 1%;
+text-align: right;
+}
+#contactForm textarea {
+margin-right: 4%;
+width: 85.6%;
+text-align: right;
+}
+#contactForm .captcha_code {
+margin-right: 15px;
+}
+
+/*comment Form */
+#commentform input[type="text"] {
+text-align: right;
+margin-left: 0;
+}
+textarea#comment {
+text-align:right;
+margin-left: 0;
+}
+
+
+/*Gallery */
+.page-content .fullwidth .gallery ul.thumbnail.col-1{
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-1 li{
+margin-right: 30px;
+margin-bottom:30px;
+}
+
+.page-content .fullwidth .gallery ul.thumbnail.col-2{
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-2 li{
+margin-right: 5px;
+margin-bottom:50px;
+}
+
+
+.page-content .fullwidth .gallery ul.thumbnail.col-3 {
+width: 96%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-3 li{
+margin-right: 5px;
+margin-bottom:50px;
+}
+
+.page-content .fullwidth .gallery .thumbnail.col-4 {
+width: 100%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-4 li{
+margin-right: 35px;
+margin-bottom:50px;
+}
+
+
+.page-content .fullwidth .gallery ul.thumbnail.col-5{
+width: 90%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-5 li {
+margin-right: 30px;
+margin-bottom: 52px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-6 {
+width: 90%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-6 li {
+margin-right: 20px;
+margin-bottom: 52px;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-6 li img {
+height: 90px;
+width:125px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-7 {
+width: 75%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-7 li {
+margin-right: 70px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-8 {
+width: 75%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-8 li {
+margin-right: 70px;
+}
+.page-content .fullwidth .gallery .thumbnail.col-9 {
+width: 75%;
+}
+.page-content .fullwidth .gallery ul.thumbnail.col-9 li {
+margin-right: 70px;
+}
+
+
+/* Default Gallery */
+.content-bar .gallery ul.thumbnail.col-3 li {
+width: 115px;
+height: 70px;
+margin-left: 20px;
+}
+.content-bar .gallery ul.thumbnail.col-4 li {
+width: 130px;
+height: auto;
+margin-left:22%;
+}
+.content-bar .gallery ul.thumbnail.col-5 li {
+height: auto;
+margin-right: 20px;
+margin-left: 115px;
+}
+.content-bar .gallery .thumbnail.col-6 {
+width: 70%;
+}
+.content-bar .gallery ul.thumbnail.col-6 li {
+height: 90px;;
+margin-right: 16px;
+margin-left:20px;
+}
+.content-bar .gallery ul.thumbnail.col-6 li img {
+height: 90px;
+}
+
+.content-bar .gallery .thumbnail.col-7 {
+width: 62%;
+height:auto;
+}
+.content-bar .gallery ul.thumbnail.col-7 li {
+margin-right: 20px;
+margin-left: 12px;
+}
+.content-bar .gallery .thumbnail.col-8 {
+width:61%;
+}
+.content-bar .gallery ul.thumbnail.col-8 li {
+width: 64px;
+height:auto;
+margin-right: 10px;
+margin-bottom: 80px;
+margin-left:20px;
+}
+.content-bar .gallery .thumbnail.col-9 {
+width: 60%;
+}
+.content-bar .gallery ul.thumbnail.col-9 li {
+width: 80px;
+height:auto;
+margin-right: 20px;
+margin-bottom: 80px;
+margin-left:15px;
+}
+
+
+}
+@media only screen and (max-width: 320px) {
+/*Slider Signupform*/
+.caption {
+margin: 0;
+position: absolute;
+left: 6.65%;
+top:80%;
+}	
+
+.home-content{
+margin-top:450px;
+}	
+	
+.feature_inner_box.fourth {
+margin-left: 0px;
+}
+/* contact Form */
+#contactForm input[type="text"], #contactForm input[type="email"] {
+margin-right: 1%;
+text-align: right;
+}
+#contactForm textarea {
+margin-right: 4%;
+width: 85.6%;
+text-align: right;
+}
+#contactForm .captcha_code {
+margin-right: 15px;
+}
+
+/*comment Form */
+#commentform input[type="text"] {
+text-align: right;
+margin-left: 0;
+}
+textarea#comment {
+text-align:right;
+margin-left: 0;
+}	
+}

@@ -1,0 +1,39 @@
+
+.signinformbox_wrapper {
+overflow: hidden;
+height: 100%;
+}
+
+.signupform-header h4 {
+font-size: 15px;
+} 
+
+#signinForm {
+background: darkorange ! important;
+}
+#signinForm input[type="text"], #signinForm input[type="email"], #signinForm select {
+border: 6px solid orange ! important;
+}
+#signinForm textarea {
+border: 6px solid orange ! important;
+}
+.signinformbox_wrapper {
+background: darkorange ! important;
+}
+#signinForm input[type="submit"] {
+background: #0896be ! important;
+border-radius: 5px ! important;
+}
+#signinForm input[type="submit"]:hover {
+background: #10b2e1 ! important;
+}
+.sidebar .signinformbox_wrapper {
+overflow: hidden;
+height: 100%;
+} 
+.sucess-send h2{
+color:black;
+}
+.sucess-send a{
+color:black;
+}
